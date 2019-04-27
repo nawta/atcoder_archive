@@ -1,0 +1,5 @@
+a=int(input())
+b=int(input())
+c=int(input())
+d=int(input())
+print(a*(a<b) + b*(a>=b) + c*(c<d) + d*(c>=d))
